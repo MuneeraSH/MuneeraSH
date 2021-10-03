@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muneera Alshunaifi
-- 👀 I’m interested in Data analysis, Machine learning, NLP and data science in genereal.
+- 👀 Welcome to my page! Here you'll find my projects, I hope it may help you.
 
 <!---
 MuneeraSH/MuneeraSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
