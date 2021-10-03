@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muneera Alshunaifi
-- 👀 Welcome to my page! Here you'll find my projects, I hope it may help you.
+- 👀 Welcome to my page! Here you'll find my projects, I hope it's helpful.
 
 <!---
 MuneeraSH/MuneeraSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
